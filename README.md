@@ -1,7 +1,8 @@
 # 📚 Student Record Management System (Java)
 
 ## 🎯 Objective
-This project is a CLI-based CRUD (Create, Read, Update, Delete) system to manage student records using Java.
+This project is developed as part of the Java Developer Internship Task 2.
+It is a CLI-based CRUD (Create, Read, Update, Delete) system to manage student records using Java.
 
 ---
 
